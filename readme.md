@@ -4,7 +4,7 @@ openreroc_pwm
 This package supports a motor control by PWM using an FPGA board ([ZedBoard](http://zedboard.org/) Xilinx). 
 The duty ratio of the mortor can be inputted from openreroc_pwm. 
  
-**Git**:         https://github.com/Kumikomi/OpenReroc.git   
+**Git**:         https://github.com/Kumikomi/openreroc_pwm.git   
 **Author**:      Kazushi Yamashina (Utsunomiya University)  
 **Copyright**:   2015, Kazushi Yamashina, Utsunomiya University    
 **License**:      new BSD License   
@@ -45,9 +45,9 @@ How to build software
 Please replace **catkin_ws** to your work space name.
 
 ```
-git clone https://github.com/Kumikomi/OpenReroc.git 
-cp -rf OpenReroc/openreroc_pwm ~/catkin_ws/src
-cd ~/catkin_ws 
+cd ~/catkin_ws/src
+git clone https://github.com/Kumikomi/openreroc_pwm.git 
+cd ..
 catkin_make 
 ```
 
