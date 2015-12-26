@@ -1,6 +1,7 @@
 openreroc_pwm
 =======
-[ROS](http://ros.org) is Robot Operating System developed by [OSRF](http://osrfoundation.org/) and open source communities.
+OpenReroc (Open Reconfigurable Robot Component) is a project to build an open source platform of reconfigurable (i.e. FPGA) devices for robot components.
+
 This package supports a motor control by PWM using an FPGA board ([ZedBoard](http://zedboard.org/) Xilinx). 
 The duty ratio of the mortor can be inputted from openreroc_pwm. 
  
