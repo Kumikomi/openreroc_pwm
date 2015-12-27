@@ -1,6 +1,6 @@
 openreroc_pwm
 =======
-OpenReroc (Open Reconfigurable Robot Component) is a project to build an open source platform of reconfigurable (i.e. FPGA) devices for robot components.
+[OpenReroc (Open Reconfigurable Robot Component)](https://github.com/Kumikomi/OpenReroc) is a project to build an open source platform of reconfigurable (i.e. FPGA) devices for robot components.
 
 This package supports a motor control by PWM using an FPGA board ([ZedBoard](http://zedboard.org/) Xilinx). 
 The duty ratio of the mortor can be inputted from openreroc_pwm. 
