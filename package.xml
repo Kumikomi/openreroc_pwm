@@ -2,7 +2,7 @@
 <package>
   <name>openreroc_pwm</name>
   <version>0.1.0</version>
-  <description>The openreroc_pwm package</description>
+  <description>This package supports a motor control by PWM using an FPGA board (ZedBoard Xilinx) in openreroc package style.</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <maintainer email="openreroc@virgo.is.utsunomiya-u.ac.jp">Kazushi Yamashina</maintainer>
