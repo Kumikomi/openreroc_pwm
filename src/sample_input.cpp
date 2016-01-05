@@ -1,5 +1,5 @@
 #include "ros/ros.h"
-#include "openreroc_pwm/openreroc_pwm.h"
+#include <openreroc_pwm/openreroc_pwm.h>
 
 int main(int argc, char **argv)
 {
