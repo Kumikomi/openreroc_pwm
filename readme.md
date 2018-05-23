@@ -150,3 +150,11 @@ motor_ctl motor_ctl
 );
 ```
 
+
+ # Acknowledgements
+This R&D project is done by Takeshi Ohkawa, Utsunomiya University.
+- https://sites.google.com/site/ohkawatakeshi/profile_en
+- http://www.is.utsunomiya-u.ac.jp/pearlab/openreroc/en/
+
+This research and development work was supported by MIC/SCOPE #152103014.
+ 
